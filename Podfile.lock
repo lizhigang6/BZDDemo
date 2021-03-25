@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - LYSGPasswordView (0.0.5)
+  - YZAuthID (2.1.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - LYSGPasswordView (~> 0.0.5)
+  - YZAuthID
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - LYSGPasswordView
+    - YZAuthID
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  LYSGPasswordView: 176deeecdea10f7235d02d48ed0339fa93634561
+  YZAuthID: 887ac7a3f7532acd01a08dfe6de138f8dcbd9780
+
+PODFILE CHECKSUM: 4f69af6f5c8e10fa338d4998a7c1ce4232e66e61
+
+COCOAPODS: 1.10.0

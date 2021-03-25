@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BZDDemo/Pods-BZDDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/LYSGPasswordView/LYSGPasswordView.framework
+${BUILT_PRODUCTS_DIR}/YZAuthID/YZAuthID.framework
